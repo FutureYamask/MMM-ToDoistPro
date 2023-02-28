@@ -1,4 +1,3 @@
-const { async } = require('node-ical')
 var NodeHelper = require('node_helper')
 
 // add require of other javascripot components here
